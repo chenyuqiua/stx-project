@@ -1,0 +1,22 @@
+:root {
+  /* 主题背景相关 */
+  --primary-color:  #831c13; /* 主题色 */
+  /* --secondary-color: #900808; 次要主题色 */
+  --primary-bgc: #ececec; /* 主要背景色 */
+  --secondary-bgc: #fff; /* 次要背景色 */
+  --btn-small-bgc: #f4b4b3; /* 部分小按钮的背景颜色 */
+
+  /* 文本 */
+  --primary-text-color: #333; /* 主要文本颜色 */
+  --secondary-text-color: #929292; /* 次要文本颜色 */
+  --secondary-text-select-color: #707070; /* 次要文本颜色选中时的颜色 */
+  /* --theme-linear-gradient: linear-gradient(90deg, #fa8c1d, #fcaf3f);
+
+  --van-search-left-icon-color: var(--primary-color) !important;
+  --van-nav-bar-icon-color: var(var(--primary-color));
+  --van-nav-bar-text-color: var(var(--primary-color)); */
+}
+
+body {
+  font-size: 14px;
+}
